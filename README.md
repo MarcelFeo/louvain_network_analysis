@@ -1,4 +1,4 @@
-# Análise Avançada de Redes com NetworkX
+# Análise de Redes com NetworkX
 
 Este projeto utiliza o NetworkX para realizar uma análise avançada de redes complexas, utilizando como exemplo a rede de personagens do livro Les Misérables. O objetivo é explorar propriedades estruturais da rede, identificar nós influentes, detectar comunidades e criar uma visualização interativa.
 
